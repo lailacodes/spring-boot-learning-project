@@ -2,15 +2,16 @@
 
 <!-- PROJECT LOGO -->
 <br />
-    <h2 align="center"> Store </h2>
+    <h2 align="center"> Simple Store </h2>
 <hr>
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
-🚧ABOUT UNDER CONSTRUCTION🚧
+This project was built to learn Spring Boot fundamentals, 
+including REST APIs, dependency injection, and database integration using Java.
 
 <!-- TOOLS -->
-### Built With:
+### Built With
 [![Java][Java-shield]][Java-url]
 [![Maven][Maven-shield]][Maven-url]
 [![Spring Boot][SpringBoot-shield]][Spring-Boot-url]
