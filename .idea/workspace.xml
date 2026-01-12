@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aca394b1-d1cc-4598-a114-9dd6bf391d3a" name="Changes" comment="Made updates to product service">
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/ProductServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/product/ProductView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/sales/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/sales/SaleItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/sales/SaleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/store/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/store/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/product/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/product/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/product/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/product/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/product/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/store/src/main/java/com/lailacodes/store/productService/product/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/store/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lailacodes&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lailacodes/spring-boot-learning-project.git&quot;,
+    &quot;accountId&quot;: &quot;99aa0deb-d2e2-4376-98b9-c339f0be16ed&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;lailacodes&quot;,
+    &quot;repository&quot;: &quot;spring-boot-learning-project&quot;
+  }
+}</component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="383FZJ2LOcBy0s4HeHvtr4U304D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.StoreApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;product-services&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ldona/IntelliJProjects/spring-boot-learning-project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.lailacodes.store.productService.product" />
+      <recent name="com.lailacodes.store" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lailacodes.store.StoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aca394b1-d1cc-4598-a114-9dd6bf391d3a" name="Changes" comment="" />
+      <created>1768020401451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768020401451</updated>
+      <workItem from="1768020402598" duration="3000" />
+      <workItem from="1768020414315" duration="750000" />
+      <workItem from="1768021173939" duration="277000" />
+      <workItem from="1768021469014" duration="1066000" />
+      <workItem from="1768022556155" duration="505000" />
+      <workItem from="1768066580500" duration="99000" />
+      <workItem from="1768066738673" duration="159000" />
+      <workItem from="1768067296530" duration="346000" />
+      <workItem from="1768067655883" duration="284000" />
+      <workItem from="1768067950844" duration="142000" />
+      <workItem from="1768068166387" duration="207000" />
+      <workItem from="1768068403591" duration="123000" />
+      <workItem from="1768068541331" duration="61000" />
+      <workItem from="1768068617541" duration="92000" />
+      <workItem from="1768068770962" duration="116000" />
+      <workItem from="1768068908643" duration="517000" />
+      <workItem from="1768069450183" duration="115000" />
+      <workItem from="1768069615190" duration="3911000" />
+      <workItem from="1768085350548" duration="20077000" />
+      <workItem from="1768165229520" duration="9593000" />
+      <workItem from="1768192329645" duration="5268000" />
+      <workItem from="1768226386598" duration="497000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updates to Home Controller, plus added StripePaymentService and OrderService implementations">
+      <option name="closed" value="true" />
+      <created>1768081749396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768081749396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated README.md (no description yet, added current languages/libraries/frameworks in use)">
+      <option name="closed" value="true" />
+      <created>1768089355465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768089355465</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated README.md to include a project description. Modified project title.">
+      <option name="closed" value="true" />
+      <created>1768090540068</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768090540068</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Configured contexts and added PayPalPaymentService implementation.">
+      <option name="closed" value="true" />
+      <created>1768100502463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768100502463</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added skeleton for product-service with base files. Implemented Product entity class">
+      <option name="closed" value="true" />
+      <created>1768155055937</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768155055937</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implemented most, if not all, product service components">
+      <option name="closed" value="true" />
+      <created>1768190811506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768190811508</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Made updates to product service">
+      <option name="closed" value="true" />
+      <created>1768224679402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768224679402</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/product-services" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updates to Home Controller, plus added StripePaymentService and OrderService implementations" />
+    <MESSAGE value="Updated README.md (no description yet, added current languages/libraries/frameworks in use)" />
+    <MESSAGE value="Updated README.md to include a project description. Modified project title." />
+    <MESSAGE value="Configured contexts and added PayPalPaymentService implementation." />
+    <MESSAGE value="Added skeleton for product-service with base files. Implemented Product entity class" />
+    <MESSAGE value="Implemented most, if not all, product service components" />
+    <MESSAGE value="Made updates to product service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made updates to product service" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
