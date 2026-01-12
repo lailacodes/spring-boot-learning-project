@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-    <h2 align="center"> Simple Store </h2>
+    <h2 align="center"> Spring Boot Learning Project </h2>
 <hr>
 
 <!-- ABOUT THE PROJECT -->
