@@ -16,6 +16,8 @@ including REST APIs, dependency injection, and database integration using Java.
 [![Maven][Maven-shield]][Maven-url]
 [![Spring Boot][SpringBoot-shield]][Spring-Boot-url]
 [![HTML][HTML-shield]][HTML-url]
+[![MongoDB][MongoDB-shield]][MongoDB-url]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Java-shield]: https://img.shields.io/badge/java-shield?style=for-the-badge&logo=java&color=%23f0f0f0
@@ -26,3 +28,5 @@ including REST APIs, dependency injection, and database integration using Java.
 [Spring-Boot-url]: https://spring.io/projects/spring-boot
 [HTML-shield]: https://img.shields.io/badge/html5-shield?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=%23f0f0f0
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[MongoDB-shield]: https://img.shields.io/badge/mongodb-shield?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=f0f0f0
+[MongoDB-url]: https://www.mongodb.com/
